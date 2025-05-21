@@ -18,7 +18,6 @@ Mi piace costruire soluzioni efficaci, sicure e scalabili utilizzando principalm
 ## 🧩 Progetti Principali
 
 - [Progetto Cyber Security](https://github.com/MatteoAU/Progetto-Cyber-Security) – Progetto finale accademia focalizzato su penetration testing e analisi della sicurezza delle applicazioni web.  
-- (aggiungi altri tuoi progetti qui, se vuoi)
 
 ---
 
@@ -31,7 +30,7 @@ Sto approfondendo sempre di più il mondo del **DevOps** e la sicurezza delle AP
 ## 📫 Contatti
 
 - LinkedIn: [matteo-pacchiotti-dev](https://www.linkedin.com/in/matteo-pacchiotti-dev/)  
-- Email: (inserisci qui la tua email, se vuoi condividerla)
+- Email: [mattpacc@gmail.com]
 
 ---
 
