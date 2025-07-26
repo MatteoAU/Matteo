@@ -1,17 +1,7 @@
 # Ciao, sono Matteo Pacchiotti 👋
 
 Sono un **Junior Full Stack Developer** appassionato di **Cyber Security** e tecnologie web.  
-Mi piace costruire soluzioni efficaci, sicure e scalabili utilizzando principalmente **Laravel**, **Node.js**, e tecnologie moderne come **Docker** e **CI/CD**.
-
----
-
-## 🚀 Competenze Tecniche
-
-- **Linguaggi:** PHP, JavaScript, HTML5, CSS3, SQL  
-- **Framework & Librerie:** Laravel, Express.js, Vue.js  
-- **Cyber Security:** OWASP Top 10, Penetration Testing, Kali Linux, Metasploit, Wireshark  
-- **DevOps & Tooling:** Docker, Git, GitHub Actions, CI/CD, Linux  
-- **Database:** MySQL, PostgreSQL
+Mi piace costruire soluzioni efficaci, sicure e scalabili.
 
 ---
 
